@@ -1,4 +1,5 @@
 venv/
 senales/
 .entorno1/ 
-lab_images/ 
+
+.gitignore
