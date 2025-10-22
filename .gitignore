@@ -2,3 +2,4 @@ venv/
 senales/
 .entorno1/ 
 
+.gitignore
